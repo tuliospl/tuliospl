@@ -98,5 +98,5 @@ Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, and engin
 ## Contributions
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuliospl&theme=tokyo-night&hide_border=true&area=true" />
 </div>
