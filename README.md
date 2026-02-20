@@ -102,5 +102,5 @@ Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, and engin
 ## Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tuliospl/tuliospl/output/ocean.gif" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
