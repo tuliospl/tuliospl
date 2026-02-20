@@ -93,14 +93,10 @@ Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, and engin
   <img src="https://streak-stats.demolab.com/?user=tuliospl&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuliospl&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
 ---
 
 ## Contributions
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" />
 </div>
