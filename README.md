@@ -98,10 +98,3 @@ Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, and engin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuliospl&theme=tokyonight" />
 </div>
 
----
-
-## Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuliospl&theme=tokyo-night&hide_border=true&area=true" />
-</div>
