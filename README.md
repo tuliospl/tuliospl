@@ -93,6 +93,11 @@ Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, and engin
   <img src="https://streak-stats.demolab.com/?user=tuliospl&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuliospl&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuliospl&theme=tokyonight" />
+</div>
+
 ---
 
 ## Contributions
