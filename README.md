@@ -1,5 +1,5 @@
 <h1 align="center">
-  Túlio Dantas Sploradori
+  Túlio Sploradori
 </h1>
 
 <h3 align="center">
