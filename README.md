@@ -29,6 +29,7 @@ Specialized in microservices architecture and high-performance distributed syste
 
 Passionate about **Domain-Driven Design**, **Hexagonal Architecture**, and engineering practices that produce sustainable, scalable software over the long term.
 
+- Postgraduate in **Advanced Java Engineering** · UNIPDS (2026)
 - Postgraduate in **Software Architecture** · FACUVALE (2025)
 - Bachelor's in **Systems Analysis and Development** · Ampli (2024)
 - Based in **São Paulo, Brazil** 🇧🇷
