@@ -13,7 +13,7 @@
   <a href="mailto:tuliospl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tuliosploradori.com.br" target="_blank">
+  <a href="https://tuliosploradori.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://github.com/tuliospl" target="_blank">
